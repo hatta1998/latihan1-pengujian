@@ -1,0 +1,34 @@
+{
+    "users":[
+        {
+            "id":1,
+            "first_name": "Hatta",
+            "last_name":"Wkwkwkw",
+            "email":"hatta@gmail.com"
+        },
+        {
+            "id":2,
+            "first_name": "Hanif",
+            "last_name":"Hohoho",
+            "email":"hanif@gmail.com"
+        },
+        {
+            "id":3,
+            "first_name": "Rian",
+            "last_name":"Hehehhe",
+            "email":"rian@gmail.com"
+        },
+        {
+            "id":4,
+            "first_name": "Intan",
+            "last_name":"Hihihi",
+            "email":"intan@gmail.com"
+        },
+        {
+            "id":5,
+            "first_name": "Anita",
+            "last_name":"Huhuhu",
+            "email":"anita@gmail.com"
+        }
+    ]
+}
